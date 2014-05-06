@@ -13,7 +13,6 @@
 reserve= 0
 name= 0
 bid= 0
-print ("I'm pretty sure this is not right!!")
 reserve= input("What is the reserve?")
 print ("Auction has started")
 print ("Highest bid so far is $0.00")
